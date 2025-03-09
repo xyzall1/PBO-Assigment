@@ -35,7 +35,8 @@
     - Menampilkan saldo akhir, untuk memastikan bahwa semua transaksi berjalan sesuai harapan.
 
 4. Hubungan antara Kelas dan Objek dalam Program
-    +------------+---------------------------------------------------------------+
+
+ +------------+---------------------------------------------------------------+
     | Konsep     | Penjelasan dalam Program                                      |
     +------------+---------------------------------------------------------------+
     | Class      | BankAccount adalah blueprint yang mendefinisikan struktur dan |
@@ -303,5 +304,6 @@ public class Latihanunguided {
 
 ## Referensi
 [1] H. Schildt, Java: The Complete Reference, 11th ed. McGraw-Hill, 2018.
+
 [2] Oracle, "Java Tutorials," 2023. [Online]. Available: https://docs.oracle.com/javase/tutorial/.
 
