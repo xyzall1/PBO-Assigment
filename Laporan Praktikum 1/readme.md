@@ -36,23 +36,18 @@
 
 4. Hubungan antara Kelas dan Objek dalam Program
 
-    ------------------------------------------------------------------------------
-    | Konsep     | Penjelasan dalam Program                                      |
-    ------------------------------------------------------------------------------
-    | Class      | BankAccount adalah blueprint yang mendefinisikan struktur dan |
-    |            | perilaku akun bank.                                           |
-    +------------+---------------------------------------------------------------+
-    | Object     | akun1 dan akun2 adalah objek dari kelas BankAccount, yang     |
-    |            | merepresentasikan akun milik Alice dan Abdul.                 |
-    +------------+---------------------------------------------------------------+
-    | Atribut    | namaPemilik dan Saldo menyimpan data setiap akun bank.        |
-    +------------+---------------------------------------------------------------+
-    | Metode     | deposit(), tariktunai(), dan tampilansaldo() digunakan untuk  |
-    |            | memodifikasi atau menampilkan data objek.                     |
-    +------------+---------------------------------------------------------------+
-    | Instansiasi| new BankAccount("Alice", 1000); membuat objek baru dengan     |
-    |            | nilai awal.                                                   |
-    ------------------------------------------------------------------------------
+    | Konsep           | Penjelasan dalam Program                                          |
+    |------------------|-------------------------------------------------------------------|
+    | **Class**        | `BankAccount` adalah blueprint yang mendefinisikan struktur dan   |
+    |                  | perilaku akun bank.                                               |
+    | **Object**       | `akun1` dan `akun2` adalah objek dari kelas `BankAccount`, yang   |
+    |                  | merepresentasikan akun milik Alice dan Abdul.                     |
+    | **Atribut**      | `namaPemilik` dan `saldo` menyimpan data setiap akun bank.        |
+    | **Metode**       | `deposit()`, `tarikTunai()`, dan `tampilSaldo()` digunakan untuk  |
+    |                  | memodifikasi atau menampilkan data objek.                         |
+    | **Instansiasi**  | `new BankAccount("Alice", 1000);` membuat objek baru dengan       |
+    |                  | nilai awal.                                                       |
+
 
 
 ## Guided 
